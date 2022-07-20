@@ -1,0 +1,3 @@
+[submodule "notion-proxy"]
+	path = notion-proxy
+	url = git@github.com:devhulk/notion-proxy.git
